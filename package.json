@@ -1,5 +1,6 @@
 {
-	"author": "Aswin Anandh",
+	"name": "fcc-learn-npm-package-json",
+	"author":"Aswin Anandh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
